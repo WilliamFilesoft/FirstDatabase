@@ -1,8 +1,5 @@
 willlaim23234
 thanhnha pro 2014
-<<<<<<< HEAD
 Willaim is a staff of Filesoft company.
 Text 1
-=======
 text 2.
->>>>>>> 90557731847a2679f6eb8c32461a42ef19fc57ea
