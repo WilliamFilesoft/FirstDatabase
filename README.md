@@ -1,3 +1,4 @@
 # FirstDatabase
 It's created to learn.
-William Nguyen to change that.
+William delete a rows.
+William nguyen.
